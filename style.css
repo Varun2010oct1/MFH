@@ -1,0 +1,63 @@
+#1 {
+    background-color: cornflowerblue;
+
+}
+
+h1 {
+    color: cornflowerblue;
+    background-color: crimson;
+}
+
+body {
+
+    background-color: cornflowerblue;
+}
+
+p {
+    font-family: 'Lobster';
+    font-size: 20px;
+}
+
+ul {
+    float: right;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+#li1:hover {
+    background-color: aqua;
+    color: darkslateblue
+}
+
+#li2:hover {
+    background-color: aqua;
+    color: darkslateblue;
+}
+
+#li3:hover {
+    background-color: aqua;
+    color: darkslateblue;
+}
+
+#li4:hover {
+    background-color: aqua;
+    color: darkslateblue;
+}
+
+#li5:hover {
+    background-color: aqua;
+    color: darkslateblue;
+}
+
+ul {
+    background-color: black;
+}
+
+#bookshelfimg {
+    border-radius: 75px;
+}
